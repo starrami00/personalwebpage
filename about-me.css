@@ -311,7 +311,7 @@
   justify-content: space-between;
   background-color: #fd9a8e;
 }
-.about-me-text55 {
+.about-me-text63 {
   font-weight: 700;
 }
 .about-me-icon-group2 {
@@ -382,7 +382,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .about-me-text54 {
+  .about-me-text62 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -403,7 +403,7 @@
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
-  .about-me-text54 {
+  .about-me-text62 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
