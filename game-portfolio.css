@@ -248,10 +248,6 @@
   max-width: 800px;
   text-align: center;
 }
-.game-portfolio-hero-sub-heading {
-  font-size: 18px;
-  text-align: center;
-}
 .game-portfolio-btn-group {
   gap: var(--dl-space-space-oneandhalfunits);
   border: 2px dashed rgba(120, 120, 120, 0.4);
@@ -313,7 +309,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.game-portfolio-text014 {
+.game-portfolio-text {
   top: 1px;
   color: var(--dl-color-custom-secondary1);
   right: -434px;
@@ -323,7 +319,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text015 {
+.game-portfolio-text001 {
   top: 97px;
   color: var(--dl-color-custom-secondary1);
   right: -475px;
@@ -354,7 +350,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text022 {
+.game-portfolio-text008 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -381,7 +377,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
-.game-portfolio-text025 {
+.game-portfolio-text011 {
   top: -1px;
   color: var(--dl-color-custom-secondary1);
   right: -391px;
@@ -391,7 +387,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text026 {
+.game-portfolio-text012 {
   top: 77px;
   color: var(--dl-color-custom-secondary1);
   right: -522px;
@@ -422,7 +418,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text035 {
+.game-portfolio-text021 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -448,7 +444,7 @@
   background-image: url("public/screenshot%202024-04-01%20at%204.14.48%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text038 {
+.game-portfolio-text024 {
   top: 1px;
   color: var(--dl-color-custom-secondary1);
   right: -490px;
@@ -458,7 +454,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text039 {
+.game-portfolio-text025 {
   top: 91px;
   color: var(--dl-color-custom-secondary1);
   right: -615px;
@@ -489,7 +485,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text045 {
+.game-portfolio-text031 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -515,7 +511,7 @@
   background-image: url("public/screenshot%202024-04-01%20at%203.51.30%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text048 {
+.game-portfolio-text034 {
   top: 1px;
   color: var(--dl-color-custom-secondary1);
   right: -477px;
@@ -525,7 +521,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text049 {
+.game-portfolio-text035 {
   top: 67px;
   color: var(--dl-color-custom-secondary1);
   right: -537px;
@@ -556,7 +552,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text061 {
+.game-portfolio-text047 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -582,7 +578,7 @@
   background-image: url("public/screenshot%202024-03-30%20at%202.37.30%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text064 {
+.game-portfolio-text050 {
   top: 1px;
   color: var(--dl-color-custom-secondary1);
   right: -472px;
@@ -592,7 +588,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text065 {
+.game-portfolio-text051 {
   top: 92px;
   color: var(--dl-color-custom-secondary1);
   right: -580px;
@@ -623,7 +619,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text074 {
+.game-portfolio-text060 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -649,7 +645,7 @@
   background-image: url("public/screenshot%202024-03-30%20at%202.34.24%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text077 {
+.game-portfolio-text063 {
   top: 0px;
   color: var(--dl-color-custom-secondary1);
   right: -437px;
@@ -659,7 +655,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text078 {
+.game-portfolio-text064 {
   top: 94px;
   color: var(--dl-color-custom-secondary1);
   right: -550px;
@@ -690,7 +686,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text082 {
+.game-portfolio-text068 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -716,7 +712,7 @@
   background-image: url("public/screenshot%202024-04-01%20at%203.18.47%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text085 {
+.game-portfolio-text071 {
   top: 0px;
   color: var(--dl-color-custom-secondary1);
   right: -514px;
@@ -726,7 +722,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text086 {
+.game-portfolio-text072 {
   top: 93px;
   color: var(--dl-color-custom-secondary1);
   right: -595px;
@@ -757,7 +753,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text094 {
+.game-portfolio-text080 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -783,7 +779,7 @@
   background-image: url("public/screenshot%202024-04-01%20at%201.39.31%C3%A2%C2%80%C2%AFpm-400h.png");
   background-position: center;
 }
-.game-portfolio-text097 {
+.game-portfolio-text083 {
   top: 0px;
   color: var(--dl-color-custom-secondary1);
   right: -456px;
@@ -793,7 +789,7 @@
   font-family: "Amaranth";
   text-transform: uppercase;
 }
-.game-portfolio-text098 {
+.game-portfolio-text084 {
   top: 94px;
   color: var(--dl-color-custom-secondary1);
   right: -555px;
@@ -824,7 +820,7 @@
   animation-iteration-count: 1;
   animation-timing-function: ease;
 }
-.game-portfolio-text104 {
+.game-portfolio-text090 {
   top: 21px;
   right: -1px;
   width: 100%;
@@ -905,7 +901,7 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.game-portfolio-text109 {
+.game-portfolio-text095 {
   width: var(--dl-size-size-xlarge);
   font-size: 18px;
   font-family: "Raleway";
@@ -913,7 +909,7 @@
   line-height: 150%;
   text-transform: uppercase;
 }
-.game-portfolio-text110 {
+.game-portfolio-text096 {
   font-size: 30px;
 }
 .game-portfolio-container13 {
@@ -943,7 +939,7 @@
   justify-content: space-between;
   background-color: #fd9a8e;
 }
-.game-portfolio-text113 {
+.game-portfolio-text099 {
   font-weight: 700;
 }
 .game-portfolio-icon-group2 {
@@ -984,11 +980,6 @@
   .game-portfolio-hero-heading {
     text-align: center;
   }
-  .game-portfolio-hero-sub-heading {
-    text-align: center;
-    padding-left: var(--dl-space-space-threeunits);
-    padding-right: var(--dl-space-space-threeunits);
-  }
   .game-portfolio-gallery1 {
     grid-gap: var(--dl-space-space-unit);
   }
@@ -998,7 +989,7 @@
   .game-portfolio-hero-heading2 {
     text-align: center;
   }
-  .game-portfolio-text107 {
+  .game-portfolio-text093 {
     text-align: center;
   }
   .game-portfolio-hero-heading3 {
@@ -1037,10 +1028,6 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .game-portfolio-hero-sub-heading {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
   .game-portfolio-gallery1 {
     height: auto;
     display: flex;
@@ -1063,7 +1050,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .game-portfolio-text112 {
+  .game-portfolio-text098 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -1096,7 +1083,7 @@
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
-  .game-portfolio-text112 {
+  .game-portfolio-text098 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
