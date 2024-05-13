@@ -236,14 +236,17 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 .resume-iframe {
-  top: 35px;
-  left: 85px;
-  width: 940px;
-  height: 939px;
-  margin: auto;
+  top: 38px;
+  left: 0px;
+  right: 0px;
+  width: 1013px;
+  height: 946px;
   position: absolute;
-  min-width: 100%;
-  margin-left: auto;
+  min-width: auto;
+  margin-top: var(--dl-space-space-unit);
+  margin-left: 129px;
+  margin-right: 13px;
+  margin-bottom: var(--dl-space-space-unit);
 }
 .resume-footer {
   width: 100%;
