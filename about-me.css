@@ -266,14 +266,18 @@
   text-align: center;
 }
 .about-me-text {
-  top: 244px;
+  top: 241px;
   color: var(--dl-color-custom-secondary1);
-  right: -504px;
-  width: 100%;
+  right: 22px;
+  width: auto;
+  height: auto;
+  margin: auto;
   position: absolute;
   font-size: 25px;
-  max-width: 100%;
-  min-width: 100%;
+  max-width: auto;
+  min-width: auto;
+  max-height: auto;
+  min-height: auto;
   text-align: left;
   animation-name: slideInUp;
   animation-delay: 0s;
@@ -311,7 +315,7 @@
   justify-content: space-between;
   background-color: #fd9a8e;
 }
-.about-me-text63 {
+.about-me-text64 {
   font-weight: 700;
 }
 .about-me-icon-group2 {
@@ -382,7 +386,7 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .about-me-text62 {
+  .about-me-text63 {
     text-align: center;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
@@ -403,7 +407,7 @@
     padding: var(--dl-space-space-unit);
     flex-direction: column;
   }
-  .about-me-text62 {
+  .about-me-text63 {
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-unit);
