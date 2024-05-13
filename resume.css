@@ -236,8 +236,8 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 .resume-iframe {
-  top: 50px;
-  left: 180px;
+  top: 35px;
+  left: 85px;
   width: 940px;
   height: 939px;
   margin: auto;
